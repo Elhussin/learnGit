@@ -55,3 +55,20 @@
 ```git pull```
 #
 # merge Conflicts عند حدوث تعارض
+#### Automatic merge failed; fix conflicts and then commit the result.
+### to check editer  history
+```git log```
+
+### to get older previse py commite
+```git reset --hard <commit>```
+
+### to get older previse same online
+```git reset --hard origin/master```
+
+# branching 
+### to check wich branch you ar on it 
+```git branch ```
+### toc reat new branch
+
+```git ckeckout -b style```
+-p style = git branch 
