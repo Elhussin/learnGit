@@ -78,3 +78,7 @@
 <!-- go master branch  -->
 ``` git checkout main```
 ```git merge style```
+
+### to fork repo
+
+## githup  pages
