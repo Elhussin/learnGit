@@ -1,14 +1,15 @@
-echo "# learnGit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/first-maker/learnGit.git
-git push -u origin main
-
-git remote add origin https://github.com/first-maker/learnGit.git
-git branch -M main
-git push -u origin main
+# all commend
+```echo "# learnGit" >> README.md```
+```git init```
+```git add README.md```
+```git commit -m "first commit"```
+```git branch -M main```
+```git remote add origin https://github.com/first-maker/learnGit.git```
+```git push -u origin main```
+##### if the exits on device
+```git remote add origin https://github.com/first-maker/learnGit.git```
+```git branch -M main```
+```git push -u origin main```
 
 ### to cheack the file in direc
 ```ls```
@@ -30,5 +31,9 @@ git push -u origin main
 ```git add hello.html```
 #### for all  file
 ``` add . ```
-### to save file 
+### 3 to save file on device
 ``` git commit -m "Message"```
+### to check status
+```git status```
+### to send file to online
+```git push```
