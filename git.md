@@ -44,7 +44,7 @@
 ``` add . ```
 ### 3 to save file on device
 ``` git commit -m "Message"```
-### to commit all file
+### to commit all file and add in one step
 ``` git commit -am "all fil"```
 ### to check status  which file hav updat and file not update
 ```git status```
