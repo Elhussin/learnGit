@@ -69,6 +69,8 @@
 ### to check wich branch you ar on it 
 ```git branch ```
 ### toc reat new branch
-
 ```git ckeckout -b style```
--p style = git branch 
+<!-- -p style = git branch  -->
+### to switch to anothe branch
+``` git checkout main```
+<!-- main = branch nmme -->
