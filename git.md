@@ -48,5 +48,8 @@
 ``` git commit -am "all fil"```
 ### to check status  which file hav updat and file not update
 ```git status```
-### to send file to online
+### 4 to send file to online
 ```git push```
+#
+# to git last updet from online
+```git pull```
