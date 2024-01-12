@@ -74,3 +74,7 @@
 ### to switch to anothe branch
 ``` git checkout main```
 <!-- main = branch nmme -->
+### to marge file
+<!-- go master branch  -->
+``` git checkout main```
+```git merge style```
