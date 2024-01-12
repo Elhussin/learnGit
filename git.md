@@ -53,3 +53,5 @@
 #
 # to git last updet from online
 ```git pull```
+#
+# merge Conflicts عند حدوث تعارض
